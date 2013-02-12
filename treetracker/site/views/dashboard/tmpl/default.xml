@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="TREETRACKER DASHBOARD DEFAULT LAYOUT">
+		<message>
+			<![CDATA[TREETRACKER DASHBOARD DEFAULT LAYOUT DESC]]>
+		</message>
+	</layout>
+	<state>
+		<name>TREETRACKER DASHBOARD DEFAULT LAYOUT</name>
+		<description>TREETRACKER DASHBOARD DEFAULT LAYOUT DESC</description>
+        <!--
+        <url addpath="/administrator/components/com_treetracker/elements">
+            <param name="filter_group" type="treetrackergroup" section="com_treetracker" default="" label="Select Group" description="A Tag Group" />
+            <param name="task" type="hidden" section="com_treetracker" default="view" />
+        </url>
+        -->
+	</state>
+</metadata>

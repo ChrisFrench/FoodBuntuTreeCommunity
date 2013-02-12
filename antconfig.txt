@@ -1,0 +1,9 @@
+cfg.name=treetracker
+cfg.versionDir=
+cfg.buildDir=packages
+cfg.localhostRoot=../Ammonite-FoodBuntu/foodbuntu/
+cfg.xmlfile=build.xml
+ftp.server=
+ftp.user=
+ftp.password=
+ftp.dir=
